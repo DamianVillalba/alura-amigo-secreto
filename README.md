@@ -20,6 +20,8 @@
 Si deseas realizar un nuevo sorteo, simplemente recarga la página en tu navegador.
 
 ## 🌐 Acceso al proyecto
+Puedes probar este proyecto siguiendo este enlace: [Amigo Secreto Alura](https://damianvillalba.github.io/alura-amigo-secreto/).
+
 Para ejecutar este proyecto en tu computadora localmente, sigue estos pasos:
 
 1. **Clona el repositorio:**
@@ -29,6 +31,14 @@ Para ejecutar este proyecto en tu computadora localmente, sigue estos pasos:
 2. **Abre la carpeta del proyecto** en tu editor de código favorito.
 3. **Ejecuta el proyecto:**
    - Abre el archivo `index.html` en tu navegador web.
+
+## 🖼️ Vista previa
+
+Aquí tienes una vista previa de la aplicación desplegada:
+
+<div align="center">
+  <img src="assets/muestra-proyecto.png" alt="Vista previa de Amigo Secreto Alura" width="80%">
+</div>
 
 ## 🛠️ Tecnologías utilizadas
 
