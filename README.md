@@ -1,6 +1,6 @@
-# Amigo Secreto Alura
+# Challenge Amigo Secreto Alura
 
-¡Bienvenido al proyecto **Amigo Secreto Alura**! Este es un proyecto de código abierto diseñado para facilitar el sorteo de un amigo secreto entre un grupo de participantes.
+¡Bienvenido al proyecto **Amigo Secreto Alura**! Este es un proyecto de código abierto realizado en base al desafío propuesto por Alura, el cual tiene como finalidad facilitar el sorteo de un amigo secreto entre un grupo de participantes.
 
 ## 📖 Descripción
 
@@ -44,8 +44,8 @@ Aquí tienes una vista previa de la aplicación desplegada:
 
 El proyecto está construido utilizando:
 
-- **HTML**: Estructura de la aplicación.
-- **CSS**: Estilo y diseño visual.
+- **HTML**: Estructura de la aplicación (facilitada por Alura).
+- **CSS**: Estilo y diseño visual (facilitado por Alura).
 - **JavaScript**: Lógica para el sorteo y la interacción.
 
 ---
